@@ -27,5 +27,10 @@ public class Ex1Aeronave {
 	}
 	
 	
+	//Metodos
+	public void voar() {
+		System.out.print("O Aviao "+getNome()+" de modelo "+getModelo()+" Que tem asa "+isAsa()+" Esta voando!");
+	}
+	
 
 }
