@@ -1,0 +1,2 @@
+module TesteMC1 {
+}
