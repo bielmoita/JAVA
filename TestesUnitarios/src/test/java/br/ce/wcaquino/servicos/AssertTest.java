@@ -47,7 +47,7 @@ public class AssertTest {
 		//O NotSame compara objetos iguais porém de instancias diferentes
 		Assert.assertNotSame(u1, u2);
 		
-		//Verificar se objetio é nulo.
+		//Verificar se objeto é nulo.
 		Assert.assertTrue(u3 == null);
 		//OU
 		Assert.assertNull(u3);
